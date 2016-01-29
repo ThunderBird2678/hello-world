@@ -6,41 +6,41 @@ I will now proceed to write the hello world program in every language I know at 
 
 // Java
 
-public class HelloWorld
-{
+    public class HelloWorld
+    {
 
-  public static void main (String [] args)
-  {
+      public static void main (String [] args)
+      {
   
-    System.out.println("Hello World!");
+        System.out.println("Hello World!");
     
-  }
+      }
   
-}
+    }
 
 // C
 
-int main (int argc, char *argv[])
-{
+    int main (int argc, char *argv[])
+    {
 
-  puts("Hello World!");
-  return 0;
+      puts("Hello World!");
+      return 0;
 
-}
+    }
 
 // C++
 
-#include<iostream>
-using namespace std;
+    #include<iostream>
+    using namespace std;
 
-int main()
-{
+    int main()
+    {
 
-  cout << "Hello World!" << endl;
-  return 0;
+      cout << "Hello World!" << endl;
+      return 0;
   
-}
+    }
 
 // Python
 
-print "Hello World!"
+    print "Hello World!"
