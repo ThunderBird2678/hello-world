@@ -4,7 +4,7 @@ This is a test to see how GitHub works.
 
 I will now proceed to write the hello world program in every language I know at the moment.
 
-// Java
+Java
 
     public class HelloWorld
     {
@@ -18,7 +18,7 @@ I will now proceed to write the hello world program in every language I know at 
   
     }
 
-// C
+C
 
     int main (int argc, char *argv[])
     {
@@ -28,7 +28,7 @@ I will now proceed to write the hello world program in every language I know at 
 
     }
 
-// C++
+C++
 
     #include<iostream>
     using namespace std;
@@ -41,6 +41,6 @@ I will now proceed to write the hello world program in every language I know at 
   
     }
 
-// Python
+Python
 
     print "Hello World!"
