@@ -48,6 +48,6 @@ Python
 Javascript 
 
 ```
-	console.log("Hello World!")
+console.log("Hello World!")
 ```
 
