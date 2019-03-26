@@ -44,3 +44,15 @@ C++
 Python
 
     print "Hello World!"
+
+Javascript 
+
+```
+console.log("Hello World!");
+```
+
+Ruby
+```
+puts "Hello World!"
+```
+
